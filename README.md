@@ -53,3 +53,9 @@ After you gather and compile all the data, you’ll need to organize it by findi
 
 Here is an example of how you might organize your customer data in a spreadsheet:
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/58fe456c-ac96-41c9-802c-ffc42b10ac85">
+
+
+### Exemplar: Create two customer personas
+Here is the [link](https://docs.google.com/document/d/10MMj-T3tXejCVm8zQ5fr2Yu0OH6vscxz6dn99RQoZUA/edit)
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/f6506ff5-6a5d-43e5-8ef6-6556b813d836">
+
