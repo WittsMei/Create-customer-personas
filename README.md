@@ -57,5 +57,33 @@ Here is an example of how you might organize your customer data in a spreadsheet
 
 ### Exemplar: Create two customer personas
 Here is the [link](https://docs.google.com/document/d/10MMj-T3tXejCVm8zQ5fr2Yu0OH6vscxz6dn99RQoZUA/edit)
+
+#### Persona 1 - The Budget Buyer
+- **Name**: This persona uses the name of one of the survey respondents (Raj) who matches most of the Budget Buyer characteristics.
+
+- **Age**: Raj’s age (27) is within the main age range of customers who care most about cost.
+
+- **Location**: Raj lives in the suburbs because that’s where most Budget Buyers reside.
+
+- **Education**: Raj is college educated because Budget Buyers tend to be college educated.
+
+- **Household**: Budget Buyers are typically younger than Variety Shoppers, so they tend not to have partners, spouses, or children. 
+
+- **Barriers**: Raj is a Budget Buyer, so he wants to purchase bedding that doesn’t cost too much. But he’s concerned that his budget might limit his options. Since he can’t examine the bedding in person before purchasing it, he also wonders if the quality is really as high as it seems online.
+
+Persona 2 - The Variety Shopper
+- **Name**: This persona uses the name of one of the survey respondents (Malena) who matches most of the Variety Shopper characteristics.
+
+- **Age**: Malena’s age (44) is within the main age range of customers who care most about variety.
+
+- **Location**: Malena lives in a city because that’s where most Variety Shoppers reside.
+
+- **Education**: Malena is college educated because Variety Shoppers tend to be college educated.
+
+- **Household**: Malena is part of a multi-person household because Variety Shoppers are often partnered or married and have 1–2 children.
+
+- **Barriers**: As a Variety Shopper, Malena wants to be able to select from a wide range of options for themselves, their partner, and children. But they don’t know if they’ll be able to find everything they need in one place. Even if those options are available, it might be hard to find them if there aren’t enough sorting options on the website.
+
+
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/f6506ff5-6a5d-43e5-8ef6-6556b813d836">
 
